@@ -1,9 +1,9 @@
 
-**# ✨ News Research Tool  ✨**
+** ✨ News Research Tool  ✨**
 
 **Harness the power of Gemini for insightful answers and cited sources!**
 
-**##  Overview**
+**  Overview**
 
 This project empowers you to extract key information from news articles effortlessly. It leverages:
 
@@ -11,14 +11,14 @@ This project empowers you to extract key information from news articles effortle
 - **Streamlit,** for a user-friendly web interface.
 - **Langchain,** for effective document loading, text splitting, and embedding generation.
 
-**##  Key Features**
+**  Key Features**
 
 - **Process multiple news articles** by simply entering their URLs.
 - **Ask questions in natural language** and receive informative responses.
 - **View cited sources** for each response, enhancing transparency and credibility.
 - **Intuitive web interface** for seamless interaction.
 
-**## ️ Getting Started**
+** ️ Getting Started**
 
 **Prerequisites:**
 
