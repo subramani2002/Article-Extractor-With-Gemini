@@ -18,6 +18,11 @@ This project empowers you to extract key information from news articles effortle
 - **View cited sources** for each response, enhancing transparency and credibility.
 - **Intuitive web interface** for seamless interaction.
 
+# Real Time Demo
+![Screenshot 2024-03-21 235306](https://github.com/subramani2002/Article-Extractor-With-Gemini/assets/67220838/774d27c5-f2b7-4597-8166-854506f2d8ce)
+
+![Screenshot 2024-03-22 001353](https://github.com/subramani2002/Article-Extractor-With-Gemini/assets/67220838/80a04fbb-0b2f-4b0b-a429-03a1e52e6b83)
+
 ## Getting Started
 
 ## Prerequisites:
